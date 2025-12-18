@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心ノ約束",
+  "base_artist": "yuiko",
+  "createdAt": "2025-12-18T13:34:54.543956Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心ノ約束",
+      "artist": "yuiko",
+      "has_synced": false,
+      "path": "select/pl_01_心ノ約束_yuiko.txt"
+    }
+  ]
+}
